@@ -12,3 +12,5 @@ Make sure that the json file is valid.
 
 Step #2: Run the packer command : packer build sample.json.
 
+
+Additonal comment added to the file to demo checkin
